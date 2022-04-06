@@ -188,6 +188,9 @@
 .h5p-dragnbar-blanks-button:before {
   content: "\e994";
 }
+.h5p-dragnbar-advancedblanksplus-button:before {
+  content: "\e994";
+}
 .h5p-dragnbar-multichoice-button:before {
   content: "\e603";
 }
